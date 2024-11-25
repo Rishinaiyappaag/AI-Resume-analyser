@@ -1,5 +1,20 @@
-The project called "AI Resume Analyser" that utilizes Natural Language Processing (NLP) to enhance job seekers' resumes. The system analyzes uploaded resumes to identify gaps in skills, providing personalized recommendations such as relevant certifications, online courses, and tutorial videos. These recommendations aim to help users upgrade their resumes, improving their chances of securing a job in their desired field. By leveraging NLP techniques, the AI effectively assesses the strengths and weaknesses of a resume, guiding users toward skill development to meet industry demands.
+🤖 AI Resume Analyser<br>
+AI Resume Analyser is your smart assistant for building standout resumes! 🚀<br><br>
 
+🌟 What It Does<br>
+📄 Analyze Resumes: Upload your resume, and let the AI work its magic.<br>
+🧠 Powered by NLP: Leverages Natural Language Processing to assess your skills and identify gaps.<br>
+🎯 Personalized Recommendations: Get tailored suggestions for:<br>
+
+🏅 Certifications<br>
+📚 Online Courses<br>
+🎥 Tutorial Videos<br><br>
+💼 Why It Matters<br>
+🔍 Helps you align with industry demands by upgrading your skills.<br>
+💡 Boosts your chances of securing a job in your dream field.<br>
+📈 Guides you toward skill development to stand out in the competitive job market.<br>
+
+✨ Whether you're a fresh graduate or an experienced professional, the AI Resume Analyser is here to help you shine! 🌟
 
 
 Home page
